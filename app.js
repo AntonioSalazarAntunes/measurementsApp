@@ -53,6 +53,6 @@ function popUp() {
 function popUpTwo() {
      document.querySelector(".messageTwo").style.display = "flex";
      document.getElementById("segunda").style.display = "flex";
-     document.getElementById("dropdown").style.zIndex = "4";       F
+     document.getElementById("dropdown").style.zIndex = "4";       
 
  }
