@@ -108,7 +108,7 @@ select {
 .messageOne {
     position: absolute;
 
-    top: 45.5%;
+    top: 47.5%;
     left: 36%;
     width: 30%;
     padding: 1em;
@@ -222,4 +222,11 @@ select {
     left: 55%;
     transform: rotate(90deg);
     color: white;
+}
+
+@media (max-width: 585px) {
+    .arrow-1{
+        top: 41%;
+        left: 40%;
+    }
 }
